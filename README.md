@@ -1,2 +1,4 @@
 # Portfolio
-Portfoilio with projects, made duraring education in Yandex Prakticum.
+В этом портфолио собраны проекты, сделанные во время обучения на аналитика данных в Яндекс Практикуме.
+
+| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
