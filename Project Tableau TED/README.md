@@ -19,5 +19,5 @@
 Tableau
 ## Результаты
 Исследование проводилось с помощью программы Tableau Public Desktop 2022.1.2.
-Результаты представлены в презентации, которую можно открыть по ссылке: https://public.tableau.com/app/profile/ilona.gorlova/viz/ilona_project2/sheet38?publish=yes
+Результаты представлены в виде дашборда, который можно открыть по ссылке: https://public.tableau.com/app/profile/ilona.gorlova/viz/ilona_project2/sheet38?publish=yes
 
