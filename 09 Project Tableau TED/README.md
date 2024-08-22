@@ -18,6 +18,10 @@
 ## Навыки и инструменты
 Tableau
 ## Результаты
-Исследование проводилось с помощью программы Tableau Public Desktop 2022.1.2.
-Результаты представлены в виде дашборда, который можно открыть по ссылке: https://public.tableau.com/app/profile/ilona.gorlova/viz/ilona_project2/sheet38?publish=yes
+Визуализация данных проводилась с помощью ПО Tableau Public Desktop 2022.1.2.
+Мною были составлены 4 интерактивных дашборда на темы:
+* тематики выступлений (2 шт)
+* история выступлений
+* авторы
+Проект можно открыть по ссылке: https://public.tableau.com/app/profile/ilona.gorlova/viz/ilona_project2/sheet38?publish=yes
 
